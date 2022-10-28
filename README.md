@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Three Phase Power Measurement and Experiment 6**
+<b> Experiment|     <b> **Three Phase Power Measurement and section A Experiment 6**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
